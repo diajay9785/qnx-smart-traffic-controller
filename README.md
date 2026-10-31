@@ -119,8 +119,8 @@ Deploy the executable to the QNX target and start the controller. Configure the 
 
 ## Authors
 
-- **Aparajithaa T.S**
+- **Aparajithaa T S**
 - **Arulmozhi V**
-- **Divyalakshmi Jayaprakash**
+- **Divyalakshmi J**
 
 Dr. N.G.P. Institute of Technology, Coimbatore
